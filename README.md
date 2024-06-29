@@ -12,10 +12,13 @@
 <p align="center">
 
 - Kotlin
+- JavaScript
 - Fundamentos de ingeniería en software
 - Programación basica y pensamiento lógico
 - HTML
 - CSS
+- SQLite
+- Node.js 
 - Copywriting
 - Desarrollo de videojuegos (Game design y Testing)
 - Marketing Digital
