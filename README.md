@@ -13,6 +13,7 @@
 
 - Kotlin
 - JavaScript
+- Python
 - Fundamentos de ingeniería en software
 - Programación basica y pensamiento lógico
 - HTML
